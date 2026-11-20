@@ -37,6 +37,7 @@ Patch13: 0013-Add-back-QtQml-include.patch
 Patch14: 0014-Force-light-mode-in-Doxygen.patch
 Patch15: 0015-Fix-qmlplugindump-crash.patch
 Patch16: 0016-Add-plugins.qmltypes.patch
+Patch17: 0017-Initialize-existing-batteries-in-QML-devices.patch
 
 %description
 This package contains the KF5BluezQt library.
